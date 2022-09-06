@@ -1,0 +1,10 @@
+/* .custom-carousel{
+    height: 450px !important;
+} */
+
+.carousel-inner, .carousel-item{
+    height: 450px !important;
+}
+.carousel-item img{
+    height: 100%;
+}
